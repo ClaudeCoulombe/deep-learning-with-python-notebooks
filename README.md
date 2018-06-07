@@ -4,6 +4,8 @@ This repository contains Jupyter notebooks implementing the code samples found i
 
 These notebooks use Python 3.6 and Keras 2.0.8. They were generated on a p2.xlarge EC2 instance.
 
+For the Chapter 7 - Advanced Deep-learning best practices - you will find source code along with small corrections and some additions by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal
+
 ## Table of contents
 
 * Chapter 2:
@@ -25,6 +27,11 @@ These notebooks use Python 3.6 and Keras 2.0.8. They were generated on a p2.xlar
     * [6.2: Understanding RNNs](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/6.2-understanding-recurrent-neural-networks.ipynb)
     * [6.3: Advanced usage of RNNs](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/6.3-advanced-usage-of-recurrent-neural-networks.ipynb)
     * [6.4: Sequence processing with convnets](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/6.4-sequence-processing-with-convnets.ipynb)
+* Chapter 7:
+    * [7.1: 7.1-Keras_functional_API.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
+    * [7.2: 7.2-Inspecting_and_monitoring_DL_models.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
+    * [7.3: 7.3-Getting_the_most_out_of_your_models.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
+    * [7.4: 7.4-Test_Hyperas.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
 * Chapter 8:
     * [8.1: Text generation with LSTM](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.1-text-generation-with-lstm.ipynb)
     * [8.2: Deep dream](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.2-deep-dream.ipynb)
