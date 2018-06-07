@@ -28,10 +28,10 @@ For the Chapter 7 - Advanced Deep-learning best practices - you will find source
     * [6.3: Advanced usage of RNNs](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/6.3-advanced-usage-of-recurrent-neural-networks.ipynb)
     * [6.4: Sequence processing with convnets](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/6.4-sequence-processing-with-convnets.ipynb)
 * Chapter 7:
-    * [7.1: 7.1-Keras_functional_API.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
-    * [7.2: 7.2-Inspecting_and_monitoring_DL_models.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
-    * [7.3: 7.3-Getting_the_most_out_of_your_models.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
-    * [7.4: 7.4-Test_Hyperas.ipynb - by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal)
+    * [7.1: Keras functional API - by Claude COULOMBE](https://github.com/ClaudeCoulombe/deep-learning-with-python-notebooks/blob/master/7.1-Keras_functional_API.ipynb)
+    * [7.2: Inspecting and monitoring DL models - by Claude COULOMBE](https://github.com/ClaudeCoulombe/deep-learning-with-python-notebooks/blob/master/7.2-Inspecting_and_monitoring_DL_models.ipynb)
+    * [7.3: Getting the_most out of your_models- by Claude COULOMBE](https://github.com/ClaudeCoulombe/deep-learning-with-python-notebooks/blob/master/7.3-Getting_the_most_out_of_your_models.ipynb)
+    * [7.4: Test Hyperas - by Claude COULOMBE](https://github.com/ClaudeCoulombe/deep-learning-with-python-notebooks/blob/master/7.4-Test_Hyperas.ipynb)
 * Chapter 8:
     * [8.1: Text generation with LSTM](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.1-text-generation-with-lstm.ipynb)
     * [8.2: Deep dream](http://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.2-deep-dream.ipynb)
