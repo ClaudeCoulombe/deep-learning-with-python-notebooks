@@ -1,0 +1,9 @@
+*.h5
+*-c2.ipynb
+*.png
+*.npz
+*.csv
+images
+images-old
+my_log_dir
+
