@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks implementing the code samples found i
 
 These notebooks use Python 3.6 and Keras 2.0.8. They were generated on a p2.xlarge EC2 instance.
 
-For the Chapter 7 - Advanced Deep-learning best practices - you will find source code along with small corrections and some additions by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal
+For the Chapter 7 - Advanced Deep-learning best practices - you will find source code along with small corrections and some additions by Claude COULOMBE - PhD - Montreal
 
 ## Table of contents
 
